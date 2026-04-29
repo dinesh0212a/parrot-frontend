@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/parrot-frontend/static/css/main.94c3f795.css",
+    "main.js": "/parrot-frontend/static/js/main.7e1cfac7.js",
+    "index.html": "/parrot-frontend/index.html",
+    "main.94c3f795.css.map": "/parrot-frontend/static/css/main.94c3f795.css.map",
+    "main.7e1cfac7.js.map": "/parrot-frontend/static/js/main.7e1cfac7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94c3f795.css",
+    "static/js/main.7e1cfac7.js"
+  ]
+}
